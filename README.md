@@ -1,7 +1,5 @@
 # Curso Java Basico ☕
-Este repositório contém os exercicios e projetos desenvolvidos durante o aprendizado de Java.
-## 📌 Objetivo
-Praticar a linguagem Java desde o conceitos mais básicos até a criação de aplicação em linha de comando.
+Este repositório contém os exercicios e projetos desenvolvidos durante o aprendizado de Java. Tem como Objetivo prraticar a linguagem Java desde os conceitos mais básicos até a criação de aplicação em linha de comando.
 ## 📂 Conteúdo Atual
 - 'QuebraMaldicao.java' - Primeiro programa de Teste com Java
 - Outros exercicios em breve...
