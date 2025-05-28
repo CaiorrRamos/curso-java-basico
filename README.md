@@ -3,7 +3,8 @@
 Este repositório contém os exercicios e projetos desenvolvidos durante o aprendizado de Java. Tem como Objetivo prraticar a linguagem Java desde os conceitos mais básicos até a criação de aplicação em linha de comando.
 ## 📂 Conteúdo Atual
 - 'QuebraMaldicao.java' - Primeiro programa de Teste com Java
-- Outros exercicios em breve...
+- 'ExercMediaAluno.java' - Exercicio Pessoal - codigo para calcular media de alunos
+- Mais programs em breve...
 ## ⚙️ Como executar? 
 1. Certifique-se de ter o Java instalado:
     ```bash
