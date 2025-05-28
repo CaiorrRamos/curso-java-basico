@@ -2,9 +2,9 @@
 # Curso Java Basico ☕ | PT-BR 
 Este repositório contém os exercicios e projetos desenvolvidos durante o aprendizado de Java. Tem como Objetivo prraticar a linguagem Java desde os conceitos mais básicos até a criação de aplicação em linha de comando.
 ## 📂 Conteúdo Atual
-- 'QuebraMaldicao.java' - Primeiro programa de Teste com Java
-- 'ExercMediaAluno.java' - Exercicio Pessoal - codigo para calcular media de alunos
-- Mais programs em breve...
+- `QuebraMaldicao.java` - Primeiro programa de Teste com Java;
+- `ExercMediaAluno.java` - Exercicio Pessoal - codigo para calcular a media de alunos;
+- Mais exercicios em breve...
 ## ⚙️ Como executar? 
 1. Certifique-se de ter o Java instalado:
     ```bash
@@ -36,7 +36,8 @@ This repository contains exercises and projects developed during the process of 
 
 ## 📂 Current Content
 
-- `QuebraMaldicao.java` - First test program in Java  
+- `QuebraMaldicao.java` - First test program in Java;
+- `ExercMediaAluno.java` - Personal exercise -program for cauculate the avarage students;
 - More exercises coming soon...
 
 ## ⚙️ How to Run
