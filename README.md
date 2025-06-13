@@ -4,6 +4,7 @@ Este repositório contém os exercicios e projetos desenvolvidos durante o apren
 ## 📂 Conteúdo Atual
 - `QuebraMaldicao.java` - Primeiro programa de Teste com Java;
 - `ExercMediaAluno.java` - Exercicio Pessoal - codigo para calcular a media de alunos;
+- `PrimeiroPrograma` - Exercicio teste - Pasta para teste de HelloWord com Debug;
 - Mais exercicios em breve...
 ## ⚙️ Como executar? 
 1. Certifique-se de ter o Java instalado:
@@ -38,6 +39,7 @@ This repository contains exercises and projects developed during the process of 
 
 - `QuebraMaldicao.java` - First test program in Java;
 - `ExercMediaAluno.java` - Personal exercise -program for cauculate the avarage students;
+- `PrimeiroPrograma` - Teste exercise - Folder for test of _HelloWord_ with Debug;
 - More exercises coming soon...
 
 ## ⚙️ How to Run
